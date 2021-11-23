@@ -2,7 +2,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
 <html>
-<head>
+<head>git
 <title>My webserver</title>
 </head>
 <body>
